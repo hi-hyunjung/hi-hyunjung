@@ -4,7 +4,7 @@
 
 ### 📜 이력
 - 한양대학교 컴퓨터소프트웨어학부 18학번
-- 2023.07~ LG Electronics, SW developer (Sinage Remote Solution)
+- 2023.07~ LG Electronics, SW developer (Sinage Remote Web Solution)
 
 ### 👀 I’m interested in ...
 - 🌱 I’m currently learning React, nodejs, network, AWS Solutions Architect exam
